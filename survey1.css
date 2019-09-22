@@ -1,0 +1,76 @@
+body{
+	background-color: #ace9e7;
+	font-family: sans-serif;
+}
+
+h1{
+	text-align: center;
+	font-family: sans-serif;
+	font-size:40px;
+}
+h2{
+	padding-top:20px;
+	font-weight:50;
+
+}
+
+#form2{
+	top:200px;
+	background-color:	#ffd8d8;
+	height:1025px;
+	margin:25px 150px;
+	text-align:left;
+	box-sizing: border-box;
+	border-radius: 50px;
+	padding-left: 200px;
+	
+
+} 
+#myform{
+	font-size:20px;
+} 
+#myform label{
+	display:block;
+}
+
+input[type="SUBMIT"]{
+     background-color:	#282902;
+     color:#fff;
+     padding:15px 30px;
+     border-radius:10px;
+     margin-top:20px;
+     margin-bottom:100px;
+     margin-right:150px;
+     margin-left:150px;
+
+     }
+
+ input[type="text"]{
+	padding:8px;
+	width:50%;
+}
+input[values="e-mail"]{
+	padding:8px;
+	width:50%;
+}
+input[type="number"]{
+	padding:8px;
+	width:50%;
+}
+
+select[name="Student"]{
+	padding:8px;
+	width:52%;
+}
+
+
+select[name="select a choice"]{
+	padding:8px;
+	width:52%;
+}
+textarea[name="message"]{
+	padding:8px;
+	width:50%;
+}
+
+
